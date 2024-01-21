@@ -38,19 +38,6 @@ The primary goal of this learning journal entry is to document the process of bu
    - Provide guidance on basic WordPress operations and content management.
 
 
-## LinkedIn Learning Courses:
-
-WordPress Fundamentals: Building a Site from Scratch
-Introduction to Responsive Web Design
-YouTube Tutorials:
-
-Building a Custom WordPress Theme from Scratch
-Advanced WordPress Theme Development Techniques
-WordPress Documentation:
-
-WordPress Codex - Theme Development
-Creating a WordPress Site: A Step-by-Step Guide
-
 ## Progress Updates
 
 ### Stage 1: Understanding Client Requirements and WordPress Setup
